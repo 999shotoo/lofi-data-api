@@ -17,8 +17,3 @@ Thumbs.db
 # Logs
 logs/
 *.log
-
-# Misc
-lofi.json
-playlist.json
-all_playlists.json
