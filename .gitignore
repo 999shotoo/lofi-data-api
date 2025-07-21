@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Misc
+lofi.json
+playlist.json
+all_playlists.json
