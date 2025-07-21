@@ -1,0 +1,8 @@
+{
+  "sad": {
+    "mood": "sad",
+    "wallpaper": "images/mood_sad.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'sad' fetched from Wallhaven."
+  }
+}
