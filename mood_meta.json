@@ -1,8 +1,74 @@
 {
+  "chill": {
+    "mood": "chill",
+    "wallpaper": "images/mood_chill.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'chill' fetched from Wallhaven."
+  },
+  "lofi": {
+    "mood": "lofi",
+    "wallpaper": "images/mood_lofi.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'lofi' fetched from Wallhaven."
+  },
+  "romantic": {
+    "mood": "romantic",
+    "wallpaper": "images/mood_romantic.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'romantic' fetched from Wallhaven."
+  },
+  "happy": {
+    "mood": "happy",
+    "wallpaper": "images/mood_happy.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'happy' fetched from Wallhaven."
+  },
   "sad": {
     "mood": "sad",
     "wallpaper": "images/mood_sad.jpg",
     "wallpaperSource": null,
     "description": "Wallpaper for mood 'sad' fetched from Wallhaven."
+  },
+  "sleep": {
+    "mood": "sleep",
+    "wallpaper": "images/mood_sleep.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'sleep' fetched from Wallhaven."
+  },
+  "beats": {
+    "mood": "beats",
+    "wallpaper": "images/mood_beats.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'beats' fetched from Wallhaven."
+  },
+  "study": {
+    "mood": "study",
+    "wallpaper": "images/mood_study.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'study' fetched from Wallhaven."
+  },
+  "nostalgic": {
+    "mood": "nostalgic",
+    "wallpaper": "images/mood_nostalgic.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'nostalgic' fetched from Wallhaven."
+  },
+  "rainy": {
+    "mood": "rainy",
+    "wallpaper": "images/mood_rainy.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'rainy' fetched from Wallhaven."
+  },
+  "ambient": {
+    "mood": "ambient",
+    "wallpaper": "images/mood_ambient.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'ambient' fetched from Wallhaven."
+  },
+  "anime": {
+    "mood": "anime",
+    "wallpaper": "images/mood_anime.jpg",
+    "wallpaperSource": null,
+    "description": "Wallpaper for mood 'anime' fetched from Wallhaven."
   }
 }
